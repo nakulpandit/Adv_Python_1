@@ -2,3 +2,4 @@
 
 # Functions
 1. Variadic Functions
+2. Decorators
